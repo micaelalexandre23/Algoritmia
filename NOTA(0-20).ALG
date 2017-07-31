@@ -49,5 +49,7 @@ caso 19
 escreva("muito bom")
 caso 20
 escreva("muito bom")
+outrocaso
+escreva("notainvalida")
 fimescolha
 fimalgoritmo
